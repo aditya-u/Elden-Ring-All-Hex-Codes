@@ -1,0 +1,783 @@
+HEX,NAME
+40000064,Tarnished's Furled Finger
+40000065,Duelist's Furled Finger
+40000066,Bloody Finger
+40000067,Finger Severer
+40000068,White Cipher Ring
+40000069,Blue Cipher Ring
+4000006A,Tarnished's Wizened Finger
+4000006B,Phantom Bloody Finger
+4000006C,Taunter's Tongue
+4000006D,Small Golden Effigy
+4000006E,Small Red Effigy
+4000006F,Festering Bloody Finger
+40000070,Recusant Finger
+40000071,Phantom Bloody Finger
+40000072,Phantom Recusant Finger
+40000073,Memory of Grace
+40000082,Spectral Steed Whistle
+40000087,Phantom Great Rune
+40000096,Furlcalling Finger Remedy
+400000AA,Tarnished's Furled Finger
+400000AB,Duelist's Furled Finger
+400000AC,Bloody Finger
+400000AE,White Cipher Ring
+400000AF,Blue Cipher Ring
+400000B2,Taunter's Tongue
+400000B3,Small Golden Effigy
+400000B4,Small Red Effigy
+400000B5,Spectral Steed Whistle
+400000B6,Furlcalling Finger Remedy
+400000B7,Festering Bloody Finger
+400000B8,Recusant Finger
+400000BE,Rune Arc
+400000BF,Godrick's Great Rune
+400000C0,Radahn's Great Rune
+400000C1,Morgott's Great Rune
+400000C2,Rykard's Great Rune
+400000C3,Mohg's Great Rune
+400000C4,Malenia's Great Rune
+400000FA,Flask of Wondrous Physick
+400000FB,Flask of Wondrous Physick
+4000012C,Fire Pot
+4000012D,Redmane Fire Pot
+4000012E,Giantsflame Fire Pot
+40000140,Lightning Pot
+40000141,Ancient Dragonbolt Pot
+4000014A,Fetid Pot
+40000154,Swarm Pot
+4000015E,Holy Water Pot
+4000015F,Sacred Order Pot
+40000168,Freezing Pot
+40000172,Poison Pot
+4000017C,Oil Pot
+40000186,Alluring Pot
+40000187,Beastlure Pot
+40000190,Roped Fire Pot
+400001A4,Roped Lightning Pot
+400001AE,Roped Fetid Pot
+400001B8,Roped Poison Pot
+400001C2,Roped Oil Pot
+400001CC,Roped Magic Pot
+400001D6,Roped Fly Pot
+400001E0,Roped Freezing Pot
+400001EA,Roped Volcano Pot
+400001FE,Roped Holy Water Pot
+40000258,Volcano Pot
+40000262,Albinauric Pot
+40000276,Cursed-Blood Pot
+40000280,Sleep Pot
+4000028A,Rancor Pot
+40000294,Magic Pot
+40000295,Academy Magic Pot
+4000029E,Rot Pot
+4000032A,Rowa Raisin
+4000032B,Sweet Raisin
+4000032C,Frozen Raisin
+40000334,Boiled Crab
+4000033E,Boiled Prawn
+40000384,Neutralizing Boluses
+4000038E,Stanching Boluses
+40000398,Thawfrost Boluses
+400003A2,Stimulating Boluses
+400003AC,Preserving Boluses
+400003B6,Rejuvenating Boluses
+400003C0,Clarifying Boluses
+400003E8,Flask of Crimson Tears
+400003E9,Flask of Crimson Tears
+400003EA,Flask of Crimson Tears +1
+400003EB,Flask of Crimson Tears +1
+400003EC,Flask of Crimson Tears +2
+400003ED,Flask of Crimson Tears +2
+400003EE,Flask of Crimson Tears +3
+400003EF,Flask of Crimson Tears +3
+400003F0,Flask of Crimson Tears +4
+400003F1,Flask of Crimson Tears +4
+400003F2,Flask of Crimson Tears +5
+400003F3,Flask of Crimson Tears +5
+400003F4,Flask of Crimson Tears +6
+400003F5,Flask of Crimson Tears +6
+400003F6,Flask of Crimson Tears +7
+400003F7,Flask of Crimson Tears +7
+400003F8,Flask of Crimson Tears +8
+400003F9,Flask of Crimson Tears +8
+400003FA,Flask of Crimson Tears +9
+400003FB,Flask of Crimson Tears +9
+400003FC,Flask of Crimson Tears +10
+400003FD,Flask of Crimson Tears +10
+400003FE,Flask of Crimson Tears +11
+400003FF,Flask of Crimson Tears +11
+40000400,Flask of Crimson Tears +12
+40000401,Flask of Crimson Tears +12
+4000041A,Flask of Cerulean Tears
+4000041B,Flask of Cerulean Tears
+4000041C,Flask of Cerulean Tears +1
+4000041D,Flask of Cerulean Tears +1
+4000041E,Flask of Cerulean Tears +2
+4000041F,Flask of Cerulean Tears +2
+40000420,Flask of Cerulean Tears +3
+40000421,Flask of Cerulean Tears +3
+40000422,Flask of Cerulean Tears +4
+40000423,Flask of Cerulean Tears +4
+40000424,Flask of Cerulean Tears +5
+40000425,Flask of Cerulean Tears +5
+40000426,Flask of Cerulean Tears +6
+40000427,Flask of Cerulean Tears +6
+40000428,Flask of Cerulean Tears +7
+40000429,Flask of Cerulean Tears +7
+4000042A,Flask of Cerulean Tears +8
+4000042B,Flask of Cerulean Tears +8
+4000042C,Flask of Cerulean Tears +9
+4000042D,Flask of Cerulean Tears +9
+4000042E,Flask of Cerulean Tears +10
+4000042F,Flask of Cerulean Tears +10
+40000430,Flask of Cerulean Tears +11
+40000431,Flask of Cerulean Tears +11
+40000432,Flask of Cerulean Tears +12
+40000433,Flask of Cerulean Tears +12
+4000044C,Pickled Turtle Neck
+40000456,Immunizing Cured Meat
+40000460,Invigorating Cured Meat
+4000046A,Clarifying Cured Meat
+40000474,Dappled Cured Meat
+4000047E,Spellproof Dried Liver
+40000488,Fireproof Dried Liver
+40000492,Lightningproof Dried Liver
+4000049C,Holyproof Dried Liver
+400004A6,Silver-Pickled Fowl Foot
+400004B0,Gold-Pickled Fowl Foot
+400004BA,Exalted Flesh
+400004C4,Deathsbane Jerky
+400004D3,Raw Meat Dumpling
+400004D8,Shabriri Grape
+4000050A,Starlight Shards
+4000051E,Immunizing White Cured Meat
+40000528,Invigorating White Cured Meat
+40000532,Clarifying White Cured Meat
+4000053C,Dappled White Cured Meat
+40000546,Deathsbane White Jerky
+40000578,Fire Grease
+40000582,Lightning Grease
+4000058C,Magic Grease
+40000596,Holy Grease
+400005A0,Blood Grease
+400005AA,Soporific Grease
+400005B4,Poison Grease
+400005BE,Freezing Grease
+400005C8,Dragonwound Grease
+400005D2,Rot Grease
+400005DC,Drawstring Fire Grease
+400005E6,Drawstring Lightning Grease
+400005F0,Drawstring Magic Grease
+400005FA,Drawstring Holy Grease
+40000604,Drawstring Blood Grease
+4000060E,Drawstring Soporific Grease
+40000618,Drawstring Poison Grease
+40000622,Drawstring Freezing Grease
+40000636,Drawstring Rot Grease
+4000069A,Shield Grease
+400006A4,Throwing Dagger
+400006AE,Bone Dart
+400006B8,Poisonbone Dart
+400006C2,Kukri
+400006CC,Crystal Dart
+400006D6,Fan Daggers
+400006E0,Ruin Fragment
+40000726,Explosive Stone
+40000727,Explosive Stone Clump
+40000730,Poisoned Stone
+40000731,Poisoned Stone Clump
+400007E4,Rainbow Stone
+400007EE,Glowstone
+400007F8,Telescope
+40000802,Grace Mimic
+40000816,Lantern
+40000820,Blasphemous Claw
+4000082A,Deathroot
+40000834,Soft Cotton
+40000848,Soap
+40000852,Celestial Dew
+4000085C,Margit's Shackle
+40000866,Mohg's Shackle
+40000870,Pureblood Knight's Medal
+4000088E,Miquella's Needle
+40000898,"Prattling Pate ""Hello"""
+40000899,"Prattling Pate ""Thank you"""
+4000089A,"Prattling Pate ""Apologies"""
+4000089B,"Prattling Pate ""Wonderful"""
+4000089C,"Prattling Pate ""Please help"""
+4000089D,"Prattling Pate ""My beloved"""
+4000089E,"Prattling Pate ""Let's get to it"""
+4000089F,"Prattling Pate ""You're beautiful"""
+40000B54,Golden Rune [1]
+40000B55,Golden Rune [2]
+40000B56,Golden Rune [3]
+40000B57,Golden Rune [4]
+40000B58,Golden Rune [5]
+40000B59,Golden Rune [6]
+40000B5A,Golden Rune [7]
+40000B5B,Golden Rune [8]
+40000B5C,Golden Rune [9]
+40000B5D,Golden Rune [10]
+40000B5E,Golden Rune [11]
+40000B5F,Golden Rune [12]
+40000B60,Golden Rune [13]
+40000B61,Numen's Rune
+40000B62,Hero's Rune [1]
+40000B63,Hero's Rune [2]
+40000B64,Hero's Rune [3]
+40000B65,Hero's Rune [4]
+40000B66,Hero's Rune [5]
+40000B67,Lord's Rune
+40000B86,Remembrance of the Grafted
+40000B87,Remembrance of the Starscourge
+40000B88,Remembrance of the Omen King
+40000B89,Remembrance of the Blasphemous
+40000B8A,Remembrance of the Rot Goddess
+40000B8B,Remembrance of the Blood Lord
+40000B8C,Remembrance of the Black Blade
+40000B8D,Remembrance of Hoarah Loux
+40000B8E,Remembrance of the Dragonlord
+40000B8F,Remembrance of the Full Moon Queen
+40000B90,Remembrance of the Lichdragon
+40000B91,Remembrance of the Fire Giant
+40000B92,Remembrance of the Regal Ancestor
+40000B93,Elden Remembrance
+40000B94,Remembrance of the Naturalborn
+40000BAE,Lands Between Rune
+40000BB8,Ancestral Infant's Head
+40000BC2,Omen Bairn
+40000BC3,Regal Omen Bairn
+40000BCC,Miranda's Prayer
+40000BD6,Cuckoo Glintstone
+40000BE0,Mimic's Veil
+40000BEA,Glintstone Scrap
+40000BEB,Large Glintstone Scrap
+40000BF4,Gravity Stone Fan
+40000BFE,Gravity Stone Chunk
+40000C08,Wraith Calling Bell
+40000CE4,Holy Water Grease
+40000CEE,Warming Stone
+40000CEF,Frenzyflame Stone
+40000CF8,Scriptstone
+40000D16,Bewitching Branch
+40000D20,Baldachin's Blessing
+40000D21,Radiant Baldachin's Blessing
+40000DAC,Uplifting Aromatic
+40000DB6,Spark Aromatic
+40000DC0,Ironjar Aromatic
+40000DDE,Bloodboil Aromatic
+40000DFC,Poison Spraymist
+40000E1A,Acid Spraymist
+40001F40,Stonesword Key
+40001F4A,Rusty Key
+40001FA6,Lucent Baldachin's Blessing
+40001FA9,Dectus Medallion (Left)
+40001FAA,Dectus Medallion (Right)
+40001FAB,Rold Medallion
+40001FAD,Academy Glintstone Key
+40001FAF,Carian Inverted Statue
+40001FB9,Dark Moon Ring
+40001FBE,Fingerprint Grape
+40001FBF,Letter from Volcano Manor
+40001FC0,Tonic of Forgetfulness
+40001FC1,Serpent's Amnion
+40001FC2,Rya's Necklace
+40001FC3,Irina's Letter
+40001FC4,Letter from Volcano Manor
+40001FC5,Red Letter
+40001FC6,Drawing-Room Key
+40001FC8,Rya's Necklace
+40001FC9,Volcano Manor Invitation
+40001FCE,Amber Starlight
+40001FCF,Seluvis's Introduction
+40001FD0,Sellen's Primal Glintstone
+40001FD2,Miniature Ranni
+40001FD3,"Asimi, Silver Tear"
+40001FD4,Godrick's Great Rune
+40001FD5,Radahn's Great Rune
+40001FD6,Morgott's Great Rune
+40001FD7,Rykard's Great Rune
+40001FD8,Mohg's Great Rune
+40001FD9,Malenia's Great Rune
+40001FDA,Lord of Blood's Favor
+40001FDB,Lord of Blood's Favor
+40001FDC,Burial Crow's Letter
+40001FDE,Spirit Calling Bell
+40001FDF,Fingerslayer Blade
+40001FE1,Sewing Needle
+40001FE2,Gold Sewing Needle
+40001FE3,Tailoring Tools
+40001FE4,Seluvis's Potion
+40001FE6,Amber Draught
+40001FE7,Letter to Patches
+40001FE8,Dancer's Castanets
+40001FE9,Sellian Sealbreaker
+40001FEB,Chrysalids' Memento
+40001FEC,Black Knifeprint
+40001FED,Letter to Bernahl
+40001FEE,Academy Glintstone Key
+40001FEF,Haligtree Secret Medallion (Left)
+40001FF0,Haligtree Secret Medallion (Right)
+40001FF5,Burial Crow's Letter
+40001FF6,Mending Rune of Perfect Order
+40001FF7,Mending Rune of the Death-Prince
+40001FF8,Mending Rune of the Fell Curse
+40001FF9,Larval Tear
+40001FFA,Imbued Sword Key
+40001FFB,Miniature Ranni
+40001FFC,Golden Tailoring Tools
+40001FFD,Iji's Confession
+40001FFE,Knifeprint Clue
+40001FFF,Cursemark of Death
+40002000,Asimi's Husk
+40002001,Seedbed Curse
+40002002,The Stormhawk King
+40002003,"Asimi, Silver Chrysalid"
+40002004,Unalloyed Gold Needle
+40002005,Sewer-Gaol Key
+40002006,Meeting Place Map
+40002007,Discarded Palace Key
+40002008,Homing Instinct Painting
+40002009,Resurrection Painting
+4000200A,Champion's Song Painting
+4000200B,Sorcerer Painting
+4000200C,Prophecy Painting
+4000200D,Flightless Bird Painting
+4000200E,Redmane Painting
+4000201D,Zorayas's Letter
+4000201E,Alexander's Innards
+4000201F,Rogier's Letter
+40002134,Crafting Kit
+4000218E,Whetstone Knife
+40002198,"Map: Limgrave, West"
+40002199,Map: Weeping Peninsula
+4000219A,"Map: Limgrave, East"
+4000219B,"Map: Liurnia, East"
+4000219C,"Map: Liurnia, North"
+4000219D,"Map: Liurnia, West"
+4000219E,Map: Altus Plateau
+4000219F,"Map: Leyndell, Royal Capital"
+400021A0,Map: Mt. Gelmir
+400021A1,Map: Caelid
+400021A2,Map: Dragonbarrow
+400021A3,"Map: Mountaintops of the Giants, West"
+400021A4,"Map: Mountaintops of the Giants, East"
+400021A5,Map: Ainsel River
+400021A6,Map: Lake of Rot
+400021A7,Map: Siofra River
+400021A8,Map: Mohgwyn Palace
+400021A9,Map: Deeproot Depths
+400021AA,Map: Consecrated Snowfield
+400021D4,Mirage Riddle
+400021FC,Note: Hidden Cave
+400021FD,Note: Imp Shades
+400021FE,Note: Flask of Wondrous Physick
+400021FF,Note: Stonedigger Trolls
+40002200,Note: Walking Mausoleum
+40002201,Note: Unseen Assassins
+40002202,Note: Great Coffins
+40002203,Note: Flame Chariots
+40002204,Note: Demi-human Mobs
+40002205,Note: Land Squirts
+40002206,Note: Gravity's Advantage
+40002207,Note: Revenants
+40002208,Note: Waypoint Ruins
+40002209,Note: Gateway
+4000220A,Note: Miquella's Needle
+4000220B,Note: Frenzied Flame Village
+4000220C,Note: The Lord of Frenzied Flame
+4000222E,Note: Hidden Cave
+4000222F,Note: Imp Shades
+40002230,Note: Flask of Wondrous Physick
+40002231,Note: Stonedigger Trolls
+40002232,Note: Walking Mausoleum
+40002233,Note: Unseen Assassins
+40002234,Note: Great Coffins
+40002235,Note: Flame Chariots
+40002236,Note: Demi-human Mobs
+40002237,Note: Land Squirts
+40002238,Note: Gravity's Advantage
+40002239,Note: Revenants
+4000223A,Note: Waypoint Ruins
+4000223B,Note: Gateway
+4000223D,Note: Frenzied Flame Village
+40002292,Conspectus Scroll
+40002293,Royal House Scroll
+40002297,Fire Monks' Prayerbook
+40002298,Giant's Prayerbook
+40002299,Godskin Prayerbook
+4000229A,Two Fingers' Prayerbook
+4000229B,Assassin's Prayerbook
+4000229C,Erdtree Prayerbook
+4000229D,Erdtree Codex
+4000229E,Golden Order Principia
+4000229F,Golden Order Principles
+400022A0,Dragon Cult Prayerbook
+400022A1,Ancient Dragon Prayerbook
+400022A2,Academy Scroll
+400022CE,Pidia's Bell Bearing
+400022CF,Seluvis's Bell Bearing
+400022D0,Patches' Bell Bearing
+400022D1,Sellen's Bell Bearing
+400022D3,D's Bell Bearing
+400022D4,Bernahl's Bell Bearing
+400022D5,Miriel's Bell Bearing
+400022D6,Gostoc's Bell Bearing
+400022D7,Thops's Bell Bearing
+400022D8,Kalé's Bell Bearing
+400022D9,Nomadic Merchant's Bell Bearing [1]
+400022DA,Nomadic Merchant's Bell Bearing [2]
+400022DB,Nomadic Merchant's Bell Bearing [3]
+400022DC,Nomadic Merchant's Bell Bearing [4]
+400022DD,Nomadic Merchant's Bell Bearing [5]
+400022DE,Isolated Merchant's Bell Bearing [1]
+400022DF,Isolated Merchant's Bell Bearing [2]
+400022E0,Nomadic Merchant's Bell Bearing [6]
+400022E1,Hermit Merchant's Bell Bearing [1]
+400022E2,Nomadic Merchant's Bell Bearing [7]
+400022E3,Nomadic Merchant's Bell Bearing [8]
+400022E4,Nomadic Merchant's Bell Bearing [9]
+400022E5,Nomadic Merchant's Bell Bearing [10]
+400022E6,Nomadic Merchant's Bell Bearing [11]
+400022E7,Isolated Merchant's Bell Bearing [3]
+400022E8,Hermit Merchant's Bell Bearing [2]
+400022E9,Abandoned Merchant's Bell Bearing
+400022EA,Hermit Merchant's Bell Bearing [3]
+400022EB,Imprisoned Merchant's Bell Bearing
+400022EC,Iji's Bell Bearing
+400022ED,Rogier's Bell Bearing
+400022EE,Blackguard's Bell Bearing
+400022EF,Corhyn's Bell Bearing
+400022F0,Gowry's Bell Bearing
+400022F1,Bone Peddler's Bell Bearing
+400022F2,Meat Peddler's Bell Bearing
+400022F3,Medicine Peddler's Bell Bearing
+400022F4,Gravity Stone Peddler's Bell Bearing
+400022F7,Smithing-Stone Miner's Bell Bearing [1]
+400022F8,Smithing-Stone Miner's Bell Bearing [2]
+400022F9,Smithing-Stone Miner's Bell Bearing [3]
+400022FA,Smithing-Stone Miner's Bell Bearing [4]
+400022FB,Somberstone Miner's Bell Bearing [1]
+400022FC,Somberstone Miner's Bell Bearing [2]
+400022FD,Somberstone Miner's Bell Bearing [3]
+400022FE,Somberstone Miner's Bell Bearing [4]
+400022FF,Somberstone Miner's Bell Bearing [5]
+40002300,Glovewort Picker's Bell Bearing [1]
+40002301,Glovewort Picker's Bell Bearing [2]
+40002302,Glovewort Picker's Bell Bearing [3]
+40002303,Ghost-Glovewort Picker's Bell Bearing [1]
+40002304,Ghost-Glovewort Picker's Bell Bearing [2]
+40002305,Ghost-Glovewort Picker's Bell Bearing [3]
+4000230A,Iron Whetblade
+4000230B,Red-Hot Whetblade
+4000230C,Sanctified Whetblade
+4000230D,Glintstone Whetblade
+4000230E,Black Whetblade
+4000230F,Unalloyed Gold Needle
+40002310,Unalloyed Gold Needle
+40002311,Valkyrie's Prosthesis
+40002312,Sellia's Secret
+40002313,Beast Eye
+40002314,Weathered Dagger
+40002328,Bow
+40002329,Polite Bow
+4000232A,My Thanks
+4000232B,Curtsy
+4000232C,Reverential Bow
+4000232D,My Lord
+4000232E,Warm Welcome
+4000232F,Wave
+40002330,Casual Greeting
+40002331,Strength!
+40002332,As You Wish
+40002333,Point Forwards
+40002334,Point Upwards
+40002335,Point Downwards
+40002336,Beckon
+40002337,Wait!
+40002338,Calm Down!
+40002339,Nod In Thought
+4000233A,Extreme Repentance
+4000233B,Grovel For Mercy
+4000233C,Rallying Cry
+4000233D,Heartening Cry
+4000233E,By My Sword
+4000233F,Hoslow's Oath
+40002340,Fire Spur Me
+40002342,Bravo!
+40002343,Jump for Joy
+40002344,Triumphant Delight
+40002345,Fancy Spin
+40002346,Finger Snap
+40002347,Dejection
+40002348,Patches' Crouch
+40002349,Crossed Legs
+4000234A,Rest
+4000234B,Sitting Sideways
+4000234C,Dozing Cross-Legged
+4000234D,Spread Out
+4000234F,Balled Up
+40002350,What Do You Want?
+40002351,Prayer
+40002352,Desperate Prayer
+40002353,Rapture
+40002355,Erudition
+40002356,Outer Order
+40002357,Inner Order
+40002358,Golden Order Totality
+40002359,The Ring
+4000235A,The Ring
+4000238C,About Sites of Grace
+4000238D,About Sorceries and Incantations
+4000238E,About Bows
+4000238F,About Crouching
+40002390,About Stance-Breaking
+40002391,About Stakes of Marika
+40002392,About Guard Counters
+40002393,About the Map
+40002394,About Guidance of Grace
+40002395,About Horseback Riding
+40002396,About Death
+40002397,About Summoning Spirits
+40002398,About Guarding
+40002399,About Item Crafting
+4000239B,About Flask of Wondrous Physick
+4000239C,About Adding Skills
+4000239D,About Birdseye Telescopes
+4000239E,About Spiritspring Jumping
+4000239F,About Vanquishing Enemy Groups
+400023A0,About Teardrop Scarabs
+400023A1,About Summoning Other Players
+400023A2,About Cooperative Multiplayer
+400023A3,About Competitive Multiplayer
+400023A4,About Invasion Multiplayer
+400023A5,About Hunter Multiplayer
+400023A6,About Summoning Pools
+400023A7,About Monument Icon
+400023A8,About Requesting Help from Hunters
+400023A9,About Skills
+400023AA,About Fast Travel to Sites of Grace
+400023AB,About Strengthening Armaments
+400023AC,About Roundtable Hold
+400023AE,About Materials
+400023AF,About Containers
+400023B0,About Adding Affinities
+400023B1,About Pouches
+400023B2,About Dodging
+400023B4,About Wielding Armaments
+400023EB,About Multiplayer
+40002454,Nomadic Warrior's Cookbook [1]
+40002455,Nomadic Warrior's Cookbook [3]
+40002456,Nomadic Warrior's Cookbook [6]
+40002457,Nomadic Warrior's Cookbook [10]
+40002458,Fugitive Warrior's Recipe [5]
+40002459,Nomadic Warrior's Cookbook [7]
+4000245A,Nomadic Warrior's Cookbook [12]
+4000245B,Nomadic Warrior's Cookbook [19]
+4000245C,Nomadic Warrior's Cookbook [13]
+4000245D,Nomadic Warrior's Cookbook [23]
+4000245E,Nomadic Warrior's Cookbook [17]
+4000245F,Nomadic Warrior's Cookbook [2]
+40002460,Nomadic Warrior's Cookbook [21]
+40002461,Missionary's Cookbook [6]
+40002468,Armorer's Cookbook [1]
+40002469,Armorer's Cookbook [2]
+4000246A,Nomadic Warrior's Cookbook [11]
+4000246B,Nomadic Warrior's Cookbook [20]
+4000246C,Armorer's Cookbook (5)
+4000246D,Armorer's Cookbook [7]
+4000246E,Armorer's Cookbook [4]
+4000246F,Nomadic Warrior's Cookbook [18]
+40002470,Armorer's Cookbook [3]
+40002471,Nomadic Warrior's Cookbook [16]
+40002472,Armorer's Cookbook [6]
+40002473,Armorer's Cookbook [5]
+4000247C,Glintstone Craftsman's Cookbook [4]
+4000247D,Glintstone Craftsman's Cookbook [1]
+4000247E,Glintstone Craftsman's Cookbook [5]
+4000247F,Nomadic Warrior's Cookbook [9]
+40002480,Glintstone Craftsman's Cookbook [8]
+40002481,Glintstone Craftsman's Cookbook [2]
+40002482,Glintstone Craftsman's Cookbook [6]
+40002483,Glintstone Craftsman's Cookbook [7]
+40002484,Glintstone Craftsman's Cookbook [3]
+40002490,Missionary's Cookbook [2]
+40002491,Missionary's Cookbook [1]
+40002492,Missionary's Cookbook (3)
+40002493,Missionary's Cookbook [5]
+40002494,Missionary's Cookbook [4]
+40002495,Missionary's Cookbook [3]
+400024A4,Nomadic Warrior's Cookbook [4]
+400024A5,Perfumer's Cookbook (1)
+400024A6,Perfumer's Cookbook (2)
+400024A7,Nomadic Warrior's Cookbook [5]
+400024A8,Perfumer's Cookbook [1]
+400024A9,Perfumer's Cookbook [2]
+400024AA,Perfumer's Cookbook [3]
+400024AB,Nomadic Warrior's Cookbook [14]
+400024AC,Nomadic Warrior's Cookbook [8]
+400024AD,Nomadic Warrior's Cookbook [22]
+400024AE,Nomadic Warrior's Cookbook [15]
+400024AF,Nomadic Warrior's Cookbook [24]
+400024B0,Perfumer's Cookbook [4]
+400024B1,Perfumer's Cookbook (13)
+400024B8,Ancient Dragon Apostle's Cookbook [1]
+400024B9,Ancient Dragon Apostle's Cookbook [2]
+400024BA,Ancient Dragon Apostle's Cookbook [4]
+400024BB,Ancient Dragon Apostle's Cookbook [3]
+400024CC,Fevor's Cookbook [1]
+400024CD,Fevor's Cookbook [3]
+400024CE,Fevor's Cookbook [2]
+400024CF,Missionary's Cookbook [7]
+400024.0,Frenzied's Cookbook [1]
+4000240.0,Frenzied's Cookbook [2]
+4000251C,Cracked Pot
+4000251D,Ritual Pot
+40002526.0,Perfume Bottle
+40002710.0,Glass Shard
+4000271A,Golden Seed
+40002724.0,Sacred Tear
+4000272E,Memory Stone
+40002738.0,Talisman Pouch
+4000274C,Dragon Heart
+40002756.0,Lost Ashes of War
+40002760.0,Great Rune of the Unborn
+40002774.0,Smithing Stone [1]
+40002775.0,Smithing Stone [2]
+40002776.0,Smithing Stone [3]
+40002777.0,Smithing Stone [4]
+40002778.0,Smithing Stone [5]
+40002779.0,Smithing Stone [6]
+4000277A,Smithing Stone [7]
+4000277B,Smithing Stone [8]
+4000279C,Ancient Dragon Smithing Stone
+400027B0,Somber Smithing Stone [1]
+400027B1,Somber Smithing Stone [2]
+400027B2,Somber Smithing Stone [3]
+400027B3,Somber Smithing Stone [4]
+400027B4,Somber Smithing Stone [5]
+400027B5,Somber Smithing Stone [6]
+400027B6,Somber Smithing Stone [7]
+400027B7,Somber Smithing Stone [8]
+400027B8,Somber Ancient Dragon Smithing Stone
+400027D8,Somber Smithing Stone [9]
+40002A94,Grave Glovewort [1]
+40002A95,Grave Glovewort [2]
+40002A96,Grave Glovewort [3]
+40002A97,Grave Glovewort [4]
+40002A98,Grave Glovewort [5]
+40002A99,Grave Glovewort [6]
+40002A9A,Grave Glovewort [7]
+40002A9B,Grave Glovewort [8]
+40002A9C,Grave Glovewort [9]
+40002A9D,Great Grave Glovewort
+40002A9E,Ghost Glovewort [1]
+40002A9F,Ghost Glovewort [2]
+40002AA0,Ghost Glovewort [3]
+40002AA1,Ghost Glovewort [4]
+40002AA2,Ghost Glovewort [5]
+40002AA3,Ghost Glovewort [6]
+40002AA4,Ghost Glovewort [7]
+40002AA5,Ghost Glovewort [8]
+40002AA6,Ghost Glovewort [9]
+40002AA7,Great Ghost Glovewort
+40002AF8,Crimsonspill Crystal Tear
+40002AF9,Greenspill Crystal Tear
+40002AFA,Crimson Crystal Tear
+40002AFB,Crimson Crystal Tear
+40002AFC,Cerulean Crystal Tear
+40002AFD,Cerulean Crystal Tear
+40002AFE,Speckled Hardtear
+40002AFF,Crimson Bubbletear
+40002B00,Opaline Bubbletear
+40002B01,Crimsonburst Crystal Tear
+40002B02,Greenburst Crystal Tear
+40002B03,Opaline Hardtear
+40002B04,Winged Crystal Tear
+40002B05,Thorny Cracked Tear
+40002B06,Spiked Cracked Tear
+40002B07,Windy Crystal Tear
+40002B08,Ruptured Crystal Tear
+40002B09,Ruptured Crystal Tear
+40002B0A,Leaden Hardtear
+40002B0B,Twiggy Cracked Tear
+40002B0C,Crimsonwhorl Bubbletear
+40002B0D,Strength-knot Crystal Tear
+40002B0E,Dexterity-knot Crystal Tear
+40002B0F,Intelligence-knot Crystal Tear
+40002B10,Faith-knot Crystal Tear
+40002B11,Cerulean Hidden Tear
+40002B12,Stonebarb Cracked Tear
+40002B13,Purifying Crystal Tear
+40002B14,Flame-Shrouding Cracked Tear
+40002B15,Magic-Shrouding Cracked Tear
+40002B16,Lightning-Shrouding Cracked Tear
+40002B17,Holy-Shrouding Cracked Tear
+40003A98,Sliver of Meat
+40003AA2,Beast Liver
+40003AAC,Lump of Flesh
+40003AB6,Beast Blood
+40003AC0,Old Fang
+40003ACA,Budding Horn
+40003AD4,Flight Pinion
+40003AE8,Four-Toed Fowl Foot
+40003AF2,Turtle Neck Meat
+40003AFC,Human Bone Shard
+40003B06,Great Dragonfly Head
+40003B10,Slumbering Egg
+40003B1A,Crab Eggs
+40003B24,Land Octopus Ovary
+40003B2E,Miranda Powder
+40003B38,Strip of White Flesh
+40003BEC,Thin Beast Bones
+40003BED,Hefty Beast Bone
+40003C28,String
+40003C32,Living Jar Shard
+40003C3C,Albinauric Bloodclot
+40003C46,Stormhawk Feather
+400050AA,Poisonbloom
+400050AB,Trina's Lily
+400050AC,Fulgurbloom
+400050AD,Miquella's Lily
+400050AE,Grave Violet
+400050B4,Faded Erdleaf Flower
+400050C8,Erdleaf Flower
+400050C9,Altus Bloom
+400050CA,Fire Blossom
+400050CB,Golden Sunflower
+400050CD,Tarnished Golden Sunflower
+400050D2,Herba
+400050D3,Arteria Leaf
+40005OE6,Dewkissed Herba
+400050F0,Rowa Fruit
+400050F1,Golden Rowa
+400050F2,Rimed Rowa
+400050F3,Bloodrose
+40005104.0,Eye of Yelough
+4000510E,Crystal Bud
+4000510F,Rimed Crystal Bud
+40005111.0,Sacramental Bud
+40005118.0,Mushroom
+40005119.0,Melted Mushroom
+40005122.0,Toxic Mushroom
+40005127.0,Root Resin
+4000512C,Cracked Crystal
+4000513B,Sanctuary Stone
+40005140.0,Nascent Butterfly
+40005141.0,Aeonian Butterfly
+40005142.0,Smoldering Butterfly
+4000514A,Silver Firefly
+4000514B,Gold Firefly
+4000514C,Glintstone Firefly
+40005154.0,Golden Centipede
+40005159.0,Silver Tear Husk
+4000515E,Gold-Tinged Excrement
+4000515F,Blood-Tainted Excrement
+40005168.0,Cave Moss
+40005169.0,Budding Cave Moss
+4000516A,Crystal Cave Moss
+4000516D,Yellow Ember
+40005172.0,Volcanic Stone
+40005174.0,Formic Rock
+40005177.0,Gravel Stone

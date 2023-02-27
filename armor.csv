@@ -1,0 +1,654 @@
+HEX,NAME
+10009C40,Iron Helmet
+10009CA4,Scale Armor
+10009D08,Iron Gauntlets
+10009D6C,Leather Trousers
+1000C350,Kaiden Helm
+1000C3B4,Kaiden Armor
+1000C418,Kaiden Gauntlets
+1000C47C,Kaiden Trousers
+1000EA60,Drake Knight Helm
+1000EAC4,Drake Knight Armor
+1000EB28,Drake Knight Gauntlets
+1000EB8C,Drake Knight Greaves
+1000EE48,Drake Knight Helm (Altered)
+1000EEAC,Drake Knight Armor (Altered)
+10013880,Scaled Helm
+100138E4,Scaled Armor
+10013948,Scaled Gauntlets
+100139AC,Scaled Greaves
+10013CCC,Scaled Armor (Altered)
+10015F90,Perfumer Hood
+10015FF4,Perfumer Robe
+10016058,Perfumer Gloves
+100160BC,Perfumer Sarong
+100163DC,Perfumer Robe (Altered)
+100186A0,Traveler's Hat
+10018704,Perfumer's Traveling Garb
+10018768,Traveler's Gloves
+100187CC,Traveler's Slops
+10018AEC,Perfumer's Traveling Garb (Altered)
+1001D4C0,Alberich's Pointed Hat
+1001D524,Alberich's Robe
+1001D588,Alberich's Bracers
+1001D5EC,Alberich's Trousers
+1001D8A8,Alberich's Pointed Hat (Altered)
+1001D90C,Alberich's Robe (Altered)
+1001FBD0,Spellblade's Pointed Hat
+1001FC34,Spellblade's Traveling Attire
+1001FC98,Spellblade's Gloves
+1001FCFC,Spellblade's Trousers
+1002001C,Spellblade's Traveling Attire (Altered)
+100222E0,Bull-Goat Helm
+10022344,Bull-Goat Armor
+100223A8,Bull-Goat Gauntlets
+1002240C,Bull-Goat Greaves
+100249F0,Iron Kasa
+10024A54,Ronin's Armor
+10024AB8,Ronin's Gauntlets
+10024B1C,Ronin's Greaves
+10024E3C,Ronin's Armor (Altered)
+10027100,Guilty Hood
+10027164,Cloth Garb
+1002722C,Cloth Trousers
+10029810,Black Wolf Mask
+10029874,Blaidd's Armor
+100298D8,Blaidd's Gauntlets
+1002993C,Blaidd's Greaves
+10029C5C,Blaidd's Armor (Altered)
+1002BF20,Black Knife Hood
+1002BF84,Black Knife Armor
+1002BFE8,Black Knife Gauntlets
+1002C04C,Black Knife Greaves
+1002C36C,Black Knife Armor (Altered)
+1002E630,Exile Hood
+1002E694,Exile Armor
+1002E6F8,Exile Gauntlets
+1002E75C,Exile Greaves
+10030D40,Banished Knight Helm
+10030DA4,Banished Knight Armor
+10030E08,Banished Knight Gauntlets
+10030E6C,Banished Knight Greaves
+10031128,Banished Knight Helm (Altered)
+1003118C,Banished Knight Armor (Altered)
+10033450,Briar Helm
+100334B4,Briar Armor
+10033518,Briar Gauntlets
+1003357C,Briar Greaves
+1003389C,Briar Armor (Altered)
+10035B60,Page Hood
+10035BC4,Page Garb
+10035C8C,Page Trousers
+10035FAC,Page Garb (Altered)
+10038270,Night's Cavalry Helm
+100382D4,Night's Cavalry Armor
+10038338,Night's Cavalry Gauntlets
+1003839C,Night's Cavalry Greaves
+10038658,Night's Cavalry Helm (Altered)
+100386BC,Night's Cavalry Armor (Altered)
+1003A980,Blue Silver Mail Hood
+1003A9E4,Blue Silver Mail Armor
+1003AA48,Blue Silver Bracelets
+1003AAAC,Blue Silver Mail Skirt
+1003ADCC,Blue Silver Mail Armor (Altered)
+1003D090,Nomadic Merchant's Chapeau
+1003D0F4,Nomadic Merchant's Finery
+1003D1BC,Nomadic Merchant's Trousers
+1003D4DC,Nomadic Merchant's Finery (Altered)
+1003F7A0,Malformed Dragon Helm
+1003F804,Malformed Dragon Armor
+1003F868,Malformed Dragon Gauntlets
+1003F8CC,Malformed Dragon Greaves
+10041EB0,Tree Sentinel Helm
+10041F14,Tree Sentinel Armor
+10041F78,Tree Sentinel Gauntlets
+10041FDC,Tree Sentinel Greaves
+100422FC,Tree Sentinel Armor (Altered)
+100445C0,Royal Knight Helm
+10044624,Royal Knight Armor
+10044688,Royal Knight Gauntlets
+100446EC,Royal Knight Greaves
+10044A0C,Royal Knight Armor (Altered)
+10046CD0,Nox Monk Hood
+10046D34,Nox Monk Armor
+10046D98,Nox Monk Bracelets
+10046DFC,Nox Monk Greaves
+100470B8,Nox Monk Hood (Altered)
+1004711C,Nox Monk Armor (Altered)
+100474A0,Nox Swordstress Crown
+10047504,Nox Swordstress Armor
+10047888,Night Maiden Twin Crown
+100478EC,Night Maiden Armor
+10047C70,Nox Swordstress Crown (Altered)
+10047CD4,Nox Swordstress Armor (Altered)
+100493E0,Great Horned Headband
+10049444,Fur Raiment
+1004950C,Fur Leggings
+100497C8,Shining Horned Headband
+1004982C,Shaman Furs
+100498F4,Shaman Leggings
+1004BAF0,Duelist Helm
+1004BB54,Gravekeeper Cloak
+1004BC1C,Duelist Greaves
+1004BF3C,Gravekeeper Cloak (Altered)
+1004E200,Sanguine Noble Hood
+1004E264,Sanguine Noble Robe
+1004E32C,Sanguine Noble Waistcloth
+10050910,Guardian Mask
+10050974,Guardian Garb (Full Bloom)
+100509D8,Guardian Bracers
+10050A3C,Guardian Greaves
+10050D5C,Guardian Garb
+10053020,Cleanrot Helm
+10053084,Cleanrot Armor
+100530E8,Cleanrot Gauntlets
+1005314C,Cleanrot Greaves
+10053408,Cleanrot Helm (Altered)
+1005346C,Cleanrot Armor (Altered)
+10055730,Fire Monk Hood
+10055794,Fire Monk Armor
+100557F8,Fire Monk Gauntlets
+1005585C,Fire Monk Greaves
+10055B18,Blackflame Monk Hood
+10055B7C,Blackflame Monk Armor
+10055BE0,Blackflame Monk Gauntlets
+10055C44,Blackflame Monk Greaves
+10057E40,Fire Prelate Helm
+10057EA4,Fire Prelate Armor
+10057F08,Fire Prelate Gauntlets
+10057F6C,Fire Prelate Greaves
+1005828C,Fire Prelate Armor (Altered)
+1005A550,Aristocrat Headband
+1005A5B4,Aristocrat Garb
+1005A67C,Aristocrat Boots
+1005A99C,Aristocrat Garb (Altered)
+1005CC60,Aristocrat Hat
+1005CCC4,Aristocrat Coat
+1005F370,Old Aristocrat Cowl
+1005F3D4,Old Aristocrat Gown
+1005F49C,Old Aristocrat Shoes
+100668A0,Vulgar Militia Helm
+10066904,Vulgar Militia Armor
+10066968,Vulgar Militia Gauntlets
+100669CC,Vulgar Militia Greaves
+10068FB0,Sage Hood
+10069014,Sage Robe
+100690DC,Sage Trousers
+1006B6C0,Pumpkin Helm
+100704E0,Elden Lord Crown
+10070544,Elden Lord Armor
+100705A8,Elden Lord Bracers
+1007060C,Elden Lord Greaves
+1007092C,Elden Lord Armor (Altered)
+10072BF0,Radahn's Redmane Helm
+10072C54,Radahn's Lion Armor
+10072CB8,Radahn's Gauntlets
+10072D1C,Radahn's Greaves
+1007303C,Radahn's Lion Armor (Altered)
+10075364,Lord of Blood's Robe
+1007574C,Lord of Blood's Robe (Altered)
+1007C830,Queen's Crescent Crown
+1007C894,Queen's Robe
+1007C8F8,Queen's Bracelets
+1007C95C,Queen's Leggings
+1007EF40,Godskin Apostle Hood
+1007EFA4,Godskin Apostle Robe
+1007F008,Godskin Apostle Bracelets
+1007F06C,Godskin Apostle Trousers
+10081650,Godskin Noble Hood
+100816B4,Godskin Noble Robe
+10081718,Godskin Noble Bracelets
+1008177C,Godskin Noble Trousers
+10083D60,Depraved Perfumer Headscarf
+10083DC4,Depraved Perfumer Robe
+10083E28,Depraved Perfumer Gloves
+10083E8C,Depraved Perfumer Trousers
+100841AC,Depraved Perfumer Robe (Altered)
+1008B290,Crucible Axe Helm
+1008B2F4,Crucible Axe Armor
+1008B358,Crucible Gauntlets
+1008B3BC,Crucible Greaves
+1008B678,Crucible Tree Helm
+1008B6DC,Crucible Tree Armor
+1008BAC4,Crucible Axe Armor (Altered)
+1008BEAC,Crucible Tree Armor (Altered)
+1008D9A0,Lusat's Glintstone Crown
+1008DA04,Lusat's Robe
+1008DA68,Lusat's Manchettes
+1008DACC,Old Sorcerer's Legwraps
+1008DD88,Azur's Glintstone Crown
+1008DDEC,Azur's Glintstone Robe
+1008DE50,Azur's Manchettes
+100900B0,All-Knowing Helm
+10090114,All-Knowing Armor
+10090178,All-Knowing Gauntlets
+100901DC,All-Knowing Greaves
+100904FC,All-Knowing Armor (Altered)
+100927C0,Twinned Helm
+10092824,Twinned Armor
+10092888,Twinned Gauntlets
+100928EC,Twinned Greaves
+10092C0C,Twinned Armor (Altered)
+10094ED0,Ragged Hat
+10094F34,Ragged Armor
+10094F98,Ragged Gloves
+10094FFC,Ragged Loincloth
+100952B8,Ragged Hat (Altered)
+1009531C,Ragged Armor (Altered)
+100975E0,Prophet Blindfold
+10097644,Corhyn's Robe
+1009770C,Prophet Trousers
+10097A2C,Prophet Robe (Altered)
+10097E14,Prophet Robe
+10099CF0,Astrologer Hood
+10099D54,Astrologer Robe
+10099DB8,Astrologer Gloves
+10099E1C,Astrologer Trousers
+1009A13C,Astrologer Robe (Altered)
+1009C400,Lionel's Helm
+1009C464,Lionel's Armor
+1009C4C8,Lionel's Gauntlets
+1009C52C,Lionel's Greaves
+1009C84C,Lionel's Armor (Altered)
+1009EB10,Hoslow's Helm
+1009EB74,Hoslow's Armor
+1009EBD8,Hoslow's Gauntlets
+1009EC3C,Hoslow's Greaves
+1009EEF8,Diallos's Mask
+1009F344,Hoslow's Armor (Altered)
+100A1220,Vagabond Knight Helm
+100A1284,Vagabond Knight Armor
+100A12E8,Vagabond Knight Gauntlets
+100A134C,Vagabond Knight Greaves
+100A166C,Vagabond Knight Armor (Altered)
+100A3930,Blue Cloth Cowl
+100A3994,Blue Cloth Vest
+100A39F8,Warrior Gauntlets
+100A3A5C,Warrior Greaves
+100A6040,White Mask
+100A60A4,War Surgeon Gown
+100A6108,War Surgeon Gloves
+100A616C,War Surgeon Trousers
+100A648C,War Surgeon Gown (Altered)
+100A8750,Royal Remains Helm
+100A87B4,Royal Remains Armor
+100A8818,Royal Remains Gauntlets
+100A887C,Royal Remains Greaves
+100AAE60,Brave's Cord Circlet
+100AAEC4,Brave's Battlewear
+100AAF28,Brave's Bracer
+100AAF8C,Brave's Legwraps
+100AB248,Brave's Leather Helm
+100AB630,Brave's Battlewear (Altered)
+100AFC80,Beast Champion Helm
+100AFCE4,Beast Champion Armor
+100AFD48,Beast Champion Gauntlets
+100AFDAC,Beast Champion Greaves
+100B00CC,Beast Champion Armor (Altered)
+100B2390,Champion Headband
+100B23F4,Champion Pauldron
+100B2458,Champion Bracers
+100B24BC,Champion Gaiters
+100B4AA0,Crimson Hood
+100B4B04,Noble's Traveling Garb
+100B4B68,Noble's Gloves
+100B4BCC,Noble's Trousers
+100B4E88,Navy Hood
+100B98C0,Maliketh's Helm
+100B9924,Maliketh's Armor
+100B9988,Maliketh's Gauntlets
+100B99EC,Maliketh's Greaves
+100B9D0C,Maliketh's Armor (Altered)
+100BBFD0,Malenia's Winged Helm
+100BC034,Malenia's Armor
+100BC098,Malenia's Gauntlet
+100BC0FC,Malenia's Greaves
+100BC41C,Malenia's Armor (Altered)
+100BE6E0,Veteran's Helm
+100BE744,Veteran's Armor
+100BE7A8,Veteran's Gauntlets
+100BE80C,Veteran's Greaves
+100BEB2C,Veteran's Armor (Altered)
+100C0DF0,Bloodhound Knight Helm
+100C0E54,Bloodhound Knight Armor
+100C0EB8,Bloodhound Knight Gauntlets
+100C0F1C,Bloodhound Knight Greaves
+100C123C,Bloodhound Knight Armor (Altered)
+100C3500,Festive Hood
+100C3564,Festive Garb
+100C38E8,Festive Hood (Altered)
+100C394C,Festive Garb (Altered)
+100C3CD0,Blue Festive Hood
+100C3D34,Blue Festive Garb
+100C5C10,Commoner's Headband
+100C5C74,Commoner's Garb
+100C5D3C,Commoner's Shoes
+100C5FF8,Commoner's Headband (Altered)
+100C605C,Commoner's Garb (Altered)
+100C63E0,Commoner's Simple Garb
+100C6444,Commoner's Simple Garb (Altered)
+100C8320,Envoy Crown
+100CAA30,Twinsage Glintstone Crown
+100CAA94,Raya Lucarian Robe
+100CAAF8,Sorcerer Manchettes
+100CAB5C,Sorcerer Leggings
+100CAE18,Olivinus Glintstone Crown
+100CB200,Lazuli Glintstone Crown
+100CB5E8,Karolos Glintstone Crown
+100CB9D0,Witch's Glintstone Crown
+100CD140,Marionette Soldier Helm
+100CD1A4,Marionette Soldier Armor
+100CF850,Marionette Soldier Birdhelm
+100D1F60,Raging Wolf Helm
+100D1FC4,Raging Wolf Armor
+100D2028,Raging Wolf Gauntlets
+100D208C,Raging Wolf Greaves
+100D23AC,Raging Wolf Armor (Altered)
+100D4670,Land of Reeds Helm
+100D46D4,Land of Reeds Armor
+100D4738,Land of Reeds Gauntlets
+100D479C,Land of Reeds Greaves
+100D4ABC,Land of Reeds Armor (Altered)
+100D4E40,Okina Mask
+100D4EA4,White Reed Armor
+100D4F08,White Reed Gauntlets
+100D4F6C,White Reed Greaves
+100D6D80,Confessor Hood
+100D6DE4,Confessor Armor
+100D6E48,Confessor Gloves
+100D6EAC,Confessor Boots
+100D7168,Confessor Hood (Altered)
+100D71CC,Confessor Armor (Altered)
+100D9490,Prisoner Iron Mask
+100D94F4,Prisoner Clothing
+100D95BC,Prisoner Trousers
+100D9878,Blackguard's Iron Mask
+100DBBA0,Traveling Maiden Hood
+100DBC04,Traveling Maiden Robe
+100DBC68,Traveling Maiden Gloves
+100DBCCC,Traveling Maiden Boots
+100DBFEC,Traveling Maiden Robe (Altered)
+100DC370,Finger Maiden Fillet
+100DC3D4,Finger Maiden Robe
+100DC49C,Finger Maiden Shoes
+100DC7BC,Finger Maiden Robe (Altered)
+100DE2B0,Preceptor's Big Hat
+100DE314,Preceptor's Long Gown
+100DE378,Preceptor's Gloves
+100DE3DC,Preceptor's Trousers
+100DE698,Mask of Confidence
+100DE6FC,Preceptor's Long Gown (Altered)
+100E09C0,Grass Hair Ornament
+100E30D0,Skeletal Mask
+100E3134,Raptor's Black Feathers
+100E3198,Bandit Manchettes
+100E31FC,Bandit Boots
+100E351C,Bandit Garb
+100E57E0,Eccentric's Hood
+100E5844,Eccentric's Armor
+100E58A8,Eccentric's Manchettes
+100E590C,Eccentric's Breeches
+100E5BC8,Eccentric's Hood (Altered)
+100E7EF0,Fingerprint Helm
+100E7F54,Fingerprint Armor
+100E7FB8,Fingerprint Gauntlets
+100E801C,Fingerprint Greaves
+100E833C,Fingerprint Armor (Altered)
+100EA600,Consort's Mask
+100EA664,Consort's Robe
+100EA72C,Consort's Trousers
+100EA9E8,Ruler's Mask
+100EAA4C,Ruler's Robe
+100EAE34,Upper-Class Robe
+100EB1B8,Marais Mask
+100EB21C,Marais Robe
+100EB280,Bloodsoaked Manchettes
+100EB5A0,Bloodsoaked Mask
+100EB604,Official's Attire
+100ECD10,Omen Helm
+100ECD74,Omen Armor
+100ECDD8,Omen Gauntlets
+100ECE3C,Omen Greaves
+100EF420,Carian Knight Helm
+100EF484,Carian Knight Armor
+100EF4E8,Carian Knight Gauntlets
+100EF54C,Carian Knight Greaves
+100EF86C,Carian Knight Armor (Altered)
+100F1B30,Hierodas Glintstone Crown
+100F1B94,Errant Sorcerer Robe
+100F1BF8,Errant Sorcerer Manchettes
+100F1C5C,Errant Sorcerer Boots
+100F1F7C,Errant Sorcerer Robe (Altered)
+100F4240,Haima Glintstone Crown
+100F42A4,Battlemage Robe
+100F4308,Battlemage Manchettes
+100F436C,Battlemage Legwraps
+100F6950,Snow Witch Hat
+100F69B4,Snow Witch Robe
+100F6A7C,Snow Witch Skirt
+100F6D9C,Snow Witch Robe (Altered)
+100F90C4,Traveler's Clothes
+100F9128,Traveler's Manchettes
+100F918C,Traveler's Boots
+100FB770,Juvenile Scholar Cap
+100FB7D4,Juvenile Scholar Robe
+100FDE80,Radiant Gold Mask
+100FDEE4,Goldmask's Rags
+100FDF48,Gold Bracelets
+100FDFAC,Gold Waistwrap
+101005F4,Fell Omen Cloak
+10102CA0,Albinauric Mask
+10102D04,Dirty Chainmail
+101053B0,Zamor Mask
+10105414,Zamor Armor
+10105478,Zamor Bracelets
+101054DC,Zamor Legwraps
+10107AC0,Imp Head (Cat)
+10107EA8,Imp Head (Fanged)
+10108290,Imp Head (Long-Tongued)
+10108678,Imp Head (Corpse)
+10108A60,Imp Head (Wolf)
+10108E48,Imp Head (Elder)
+1010A1D0,Silver Tear Mask
+1010C8E0,Chain Coif
+1010C944,Chain Armor
+1010C9A8,Chain Gauntlets
+1010CA0C,Chain Leggings
+1010CCC8,Greathelm
+1010CD2C,Eye Surcoat
+1010D114,Tree Surcoat
+1010EFF0,Octopus Head
+10111700,Jar
+10113E10,Mushroom Head
+10113E74,Mushroom Body
+10113ED8,Mushroom Arms
+10113F3C,Mushroom Legs
+1013D620,Nox Mirrorhelm
+1013DA08,Iji's Mirrorhelm
+10155CC0,Black Hood
+10155D24,Leather Armor
+10155D88,Leather Gloves
+10155DEC,Leather Boots
+101560A8,Bandit Mask
+1016E360,Knight Helm
+1016E3C4,Knight Armor
+1016E428,Knight Gauntlets
+1016E48C,Knight Greaves
+10186A00,Greathood
+1019F0A0,Godrick Soldier Helm
+1019F104,Tree-and-Beast Surcoat
+1019F168,Godrick Soldier Gauntlets
+1019F1CC,Godrick Soldier Greaves
+101A17B0,Raya Lucarian Helm
+101A1814,Cuckoo Surcoat
+101A1878,Raya Lucarian Gauntlets
+101A18DC,Raya Lucarian Greaves
+101A3EC0,Leyndell Soldier Helm
+101A3F24,Erdtree Surcoat
+101A3F88,Leyndell Soldier Gauntlets
+101A3FEC,Leyndell Soldier Greaves
+101A65D0,Radahn Soldier Helm
+101A6634,Redmane Surcoat
+101A6698,Radahn Soldier Gauntlets
+101A66FC,Radahn Soldier Greaves
+101A8D44,Mausoleum Surcoat
+101A8DA8,Mausoleum Gauntlets
+101A8E0C,Mausoleum Greaves
+101AB3F0,Haligtree Helm
+101AB454,Haligtree Crest Surcoat
+101AB4B8,Haligtree Gauntlets
+101AB51C,Haligtree Greaves
+101ADB00,Gelmir Knight Helm
+101ADB64,Gelmir Knight Armor
+101ADBC8,Gelmir Knight Gauntlets
+101ADC2C,Gelmir Knight Greaves
+101ADF4C,Gelmir Knight Armor (Altered)
+101B0210,Godrick Knight Helm
+101B0274,Godrick Knight Armor
+101B02D8,Godrick Knight Gauntlets
+101B033C,Godrick Knight Greaves
+101B065C,Godrick Knight Armor (Altered)
+101B2920,Cuckoo Knight Helm
+101B2984,Cuckoo Knight Armor
+101B29E8,Cuckoo Knight Gauntlets
+101B2A4C,Cuckoo Knight Greaves
+101B2D6C,Cuckoo Knight Armor (Altered)
+101B5030,Leyndell Knight Helm
+101B5094,Leyndell Knight Armor
+101B50F8,Leyndell Knight Gauntlets
+101B515C,Leyndell Knight Greaves
+101B547C,Leyndell Knight Armor (Altered)
+101B7740,Redmane Knight Helm
+101B77A4,Redmane Knight Armor
+101B7808,Redmane Knight Gauntlets
+101B786C,Redmane Knight Greaves
+101B7B8C,Redmane Knight Armor (Altered)
+101B9EB4,Mausoleum Knight Armor
+101B9F18,Mausoleum Knight Gauntlets
+101B9F7C,Mausoleum Knight Greaves
+101BA29C,Mausoleum Knight Armor (Altered)
+101BC560,Haligtree Knight Helm
+101BC5C4,Haligtree Knight Armor
+101BC628,Haligtree Knight Gauntlets
+101BC68C,Haligtree Knight Greaves
+101BC9AC,Haligtree Knight Armor (Altered)
+101BEC70,Foot Soldier Cap
+101BECD4,Chain-Draped Tabard
+101BED38,Foot Soldier Gauntlets
+101BED9C,Foot Soldier Greaves
+101C1380,Foot Soldier Helmet
+101C13E4,Foot Soldier Tabard
+101C3A90,Gilded Foot Soldier Cap
+101C3AF4,Leather-Draped Tabard
+101C61A0,Foot Soldier Helm
+101C6204,Scarlet Tabard
+101C8914,Bloodsoaked Tabard
+101CAFC0,Sacred Crown Helm
+101CB024,Ivory-Draped Tabard
+101CD6D0,Omensmirk Mask
+101CD734,Omenkiller Robe
+101CD798,Omenkiller Long Gloves
+101CD7FC,Omenkiller Boots
+101CFDE0,Ash-of-War Scarab
+101D01C8,Incantation Scarab
+101D05B0,Glintstone Scarab
+101D24F0,Crimson Tear Scarab
+101D4C00,Cerulean Tear Scarab
+101D7374,Deathbed Dress
+101D743C,Deathbed Smalls
+101D9A20,Fia's Hood
+101D9A84,Fia's Robe
+101D9E6C,Fia's Robe (Altered)
+101DC194,Millicent's Robe
+101DC1F8,Millicent's Gloves
+101DC25C,Millicent's Boots
+101E0FB4,Millicent's Tunic
+101E1018,Golden Prosthetic
+101E3660,Highwayman Hood
+101E36C4,Highwayman Cloth Armor
+101E3728,Highwayman Gauntlets
+101E5D70,High Page Hood
+101E5DD4,High Page Clothes
+101E61BC,High Page Clothes (Altered)
+101E8480,Rotten Duelist Helm
+101E84E4,Rotten Gravekeeper Cloak
+101E85AC,Rotten Duelist Greaves
+101E88CC,Rotten Gravekeeper Cloak (Altered)
+101EAB90,Mushroom Crown
+101ED2A0,Black Dumpling
+101EF9B0,Lazuli Robe
+101B065C,Godrick Knight Armor (Altered)
+101B2920,Cuckoo Knight Helm
+101B2984,Cuckoo Knight Armor
+101B29E8,Cuckoo Knight Gauntlets
+101B2A4C,Cuckoo Knight Greaves
+101B2D6C,Cuckoo Knight Armor (Altered)
+101B5030,Leyndell Knight Helm
+101B5094,Leyndell Knight Armor
+101B50F8,Leyndell Knight Gauntlets
+101B515C,Leyndell Knight Greaves
+101B547C,Leyndell Knight Armor (Altered)
+101B7740,Redmane Knight Helm
+101B77A4,Redmane Knight Armor
+101B7808,Redmane Knight Gauntlets
+101B786C,Redmane Knight Greaves
+101B7B8C,Redmane Knight Armor (Altered)
+101B9EB4,Mausoleum Knight Armor
+101B9F18,Mausoleum Knight Gauntlets
+101B9F7C,Mausoleum Knight Greaves
+101BA29C,Mausoleum Knight Armor (Altered)
+101BC560,Haligtree Knight Helm
+101BC5C4,Haligtree Knight Armor
+101BC628,Haligtree Knight Gauntlets
+101BC68C,Haligtree Knight Greaves
+101BC9AC,Haligtree Knight Armor (Altered)
+101BEC70,Foot Soldier Cap
+101BECD4,Chain-Draped Tabard
+101BED38,Foot Soldier Gauntlets
+101BED9C,Foot Soldier Greaves
+101C1380,Foot Soldier Helmet
+101C13E4,Foot Soldier Tabard
+101C3A90,Gilded Foot Soldier Cap
+101C3AF4,Leather-Draped Tabard
+101C61A0,Foot Soldier Helm
+101C6204,Scarlet Tabard
+101C8914,Bloodsoaked Tabard
+101CAFC0,Sacred Crown Helm
+101CB024,Ivory-Draped Tabard
+101CD6D0,Omensmirk Mask
+101CD734,Omenkiller Robe
+101CD798,Omenkiller Long Gloves
+101CD7FC,Omenkiller Boots
+101CFDE0,Ash-of-War Scarab
+101D01C8,Incantation Scarab
+101D05B0,Glintstone Scarab
+101D24F0,Crimson Tear Scarab
+101D4C00,Cerulean Tear Scarab
+101D7374,Deathbed Dress
+101D743C,Deathbed Smalls
+101D7B44,(Unk)
+101D9A20,Fia's Hood
+101D9A84,Fia's Robe
+101D9E6C,Fia's Robe (Altered)
+101DC194,Millicent's Robe
+101DC1F8,Millicent's Gloves
+101DC25C,Millicent's Boots
+101DE8A4,(Unk)
+101DE908,(Unk)
+101E0FB4,Millicent's Tunic
+101E1018,Golden Prosthetic
+101E139C,(Unk)
+101E1400,(Unk)
+101E3660,Highwayman Hood
+101E36C4,Highwayman Cloth Armor
+101E3728,Highwayman Gauntlets
+101E5D70,High Page Hood
+101E5DD4,High Page Clothes
+101E61BC,High Page Clothes (Altered)
+101E8480,Rotten Duelist Helm
+101E84E4,Rotten Gravekeeper Cloak
+101E85AC,Rotten Duelist Greaves
+101E88CC,Rotten Gravekeeper Cloak (Altered)
+101EAB90,Mushroom Crown
+101ED2A0,Black Dumpling
+101EF9B0,Lazuli Robe
